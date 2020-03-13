@@ -1,0 +1,60 @@
+#heading {
+	text-align: center;
+	margin: 100px auto;
+	background-color: #fca903;
+}
+#foot {
+	color: #000;
+  	font-family: 'Dancing Script', cursive;
+  	font-weight: 800;
+  	margin: 10px auto;
+  	text-align: right;
+}
+h1 {
+	color: #000;
+  	font-family: "Space Mono", Arial, serif;
+  	font-weight: 400;
+  	margin: 0 0 20px 0;
+}
+
+#p {
+	color: #000;
+  font-family: 'Beth Ellen', cursive;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+}
+
+#tik {
+	margin: 10px auto;
+	float: center;
+	padding: 10px auto;
+	text-align: center;
+}
+
+#rgb {
+	margin: 10px auto;
+	float: center;
+	padding: 10px auto;
+	text-align: center;
+}
+
+#aboutme {
+	margin: 10px auto;
+	float: center;
+	padding: 10px auto;
+	text-align: center;
+}
+
+#footer {
+	display: block;
+	margin: 200px auto;
+	padding: 10px auto;
+	text-align: center;
+}
+
+button {
+	color: #000;
+  	font-family: 'Shadows Into Light', cursive;
+  	font-weight: 400;
+  	margin: 0 0 20px 0;
+}
